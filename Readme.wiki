@@ -13,11 +13,11 @@
 * As a authorized User of the mobile application I want to be able to delete a task so that it no longer persisted on the server and the mobile application.
 
 ## Requirements ##
-1.	Authentication should be performed with the server
-2.	Tasks should be saved to the server.
-3.	Tasks should be retrieved from the server.
-4.	https://parse.com/ should be used as the server. Make sure to use the provided SDK
-5.	In the future this application will require offline mode (no data connectivity) so architect it accordingly
+1. 	Authentication should be performed with the server
+2. 	Tasks should be saved to the server.
+3. 	Tasks should be retrieved from the server.
+4. 	https://parse.com/ should be used as the server. Make sure to use the provided SDK
+5. 	In the future this application will require offline mode (no data connectivity) so architect it  accordingly
 
 ## NOTES ##
 It is not expected that the application will be completed in its entirety, so don’t stress out. Get your headphones on, get comfortable and let the code goodness flow.
