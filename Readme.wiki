@@ -25,4 +25,5 @@
 5. 	In the future this application will require offline mode (no data connectivity) so architect it  accordingly
 
 ## NOTES ##
+
 It is not expected that the application will be completed in its entirety, so don’t stress out. Get your headphones on, get comfortable and let the code goodness flow.
