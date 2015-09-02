@@ -14,13 +14,15 @@
 
 ## Requirements ##
 
-1. 	Authentication should be performed with the server
+1.      Any mobile platform can be used.
 
-2. 	Tasks should be saved to the server.
+2. 	Authentication should be performed with the server
 
-3. 	Tasks should be retrieved from the server.
+3. 	Tasks should be saved to the server.
 
-4. 	https://parse.com/ should be used as the server. Make sure to use the provided SDK
+4. 	Tasks should be retrieved from the server.
+
+5. 	https://parse.com/ should be used as the server. Make sure to use the provided SDK
 
 5. 	In the future this application will require offline mode (no data connectivity) so architect it  accordingly
 
